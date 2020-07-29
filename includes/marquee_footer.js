@@ -1,0 +1,1 @@
+document.write('<footer><marquee behavior="scroll" direction="left"><strong>Proprietary information:</strong> This document and the contents hereof are considered proprietary and confidential information of Biogenix Laboratory and disclosure to unauthorized individuals or dissemination, publication or copying is prohibited without prior written consent.</marquee></footer>')

@@ -1,0 +1,54 @@
+html, body {
+	font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
+
+#main-body {
+	width: 97%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#main_logo {
+	float: left;
+	height: 15vh;
+  /*width: 19vw;*/
+}
+
+#main_header {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 40px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #0066ff;
+}
+
+#main_header a h1 {
+  font-weight: 900;
+}
+
+#branch {
+	font-size: x-large;
+}
+
+#address_header {
+	padding-top: 20px;
+  text-align: left;
+	font-size: small;
+  font-weight: bold;
+}
+
+#address_header p {
+	margin-bottom: 2px;
+}
+
+#main_page_nav a {
+	text-decoration: none;
+	color: white;
+  /*text-transform: uppercase;*/
+}
+
+#form_logo {
+  width: 100px;
+}
