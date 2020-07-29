@@ -33,7 +33,7 @@ html, body {
 }
 
 #address_header {
-	padding-top: 20px;
+	padding-top: 40px;
   text-align: left;
 	font-size: small;
   font-weight: bold;
@@ -51,4 +51,17 @@ html, body {
 
 #form_logo {
   width: 100px;
+}
+
+#policyReviewModalLabel {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#pol_review_ctrl_no {
+  font-size: 10px;
+}
+
+#pol_review_title {
+  font-size: 15px;
 }
